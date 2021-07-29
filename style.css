@@ -1,0 +1,56 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100vw;
+  background-color: rgb(7, 7, 36);
+}
+
+.sheklak {
+  width: 0.5em;
+  height: 0.5em;
+  margin-top: -8em;
+  margin-left: -8em;
+  font-size: 50px;
+  box-shadow: 3em 0 red, 3.5em 0 red, 4em 0 red, 2em 0.5em red, 2.5em.5em red,
+    3em 0.5em red, 3.5em 0.5em red, 4em 0.5em red, 4.5em 0.5em red,
+    5em 0.5em red, 1.5em 1em red, 2em 1em red, 2.5em 1em red, 4em 1em red,
+    4.5em 1em red, 3em 1em red, 3.5em 1em red, 5em 1em red, 5.5em 1em red,
+    1em 1.5em red, 1.5em 1.5em red, 2em 1.5em white, 2.5em 1.5em white,
+    3em 1.5em red, 3.5em 1.5em red, 4em 1.5em red, 4.5em 1.5em white,
+    5em 1.5em white, 5.5em 1.5em red, 6em 1.5em red, 1em 2em red, 2em 2em white,
+    2.5em 2em white, 3em 2em white, 3.5em 2em red, 4em 2em white,
+    4.5em 2em white, 5.5em 2em white, 5em 2em white, 1.5em 2em white,
+    5.5em 2em red, 6em 2em red, 6.5em 2em red, 0.5em 2em red, 0.5em 2.5em red,
+    1em 2.5em red, 1.5em 2.5em white, 2em 2.5em black, 2.5em 2.5em black,
+    3em 2.5em white, 3.5em 2.5em red, 4em 2.5em white, 4.5em 2.5em black,
+    5em 2.5em black, 5.5em 2.5em white, 6em 2.5em red, 6.5em 2.5em red,
+    0.5em 3em red, 1em 3em red, 1.5em 3em red, 2em 3em black, 2.5em 3em black,
+    3em 3em red, 3.5em 3em red, 4em 3em red, 4.5em 3em black, 5em 3em black,
+    5.5em 3em red, 6em 3em red, 6.5em 3em red, 0.5em 3.5em red, 1em 3.5em red,
+    1.5em 3.5em red, 2em 3.5em red, 2.5em 3.5em red, 3em 3.5em red,
+    3.5em 3.5em red, 4em 3.5em red, 4.5em 3.5em red, 5em 3.5em red,
+    5.5em 3.5em red, 6em 3.5em red, 6.5em 3.5em red, 0.5em 4em red, 1em 4em red,
+    1.5em 4em red, 2em 4em red, 2.5em 4em red, 3em 4em red, 3.5em 4em red,
+    4em 4em red, 4.5em 4em red, 5em 4em red, 5.5em 4em red, 6em 4em red,
+    6.5em 4em red, 0.5em 4.5em red, 1em 4.5em red, 1.5em 4.5em red,
+    2em 4.5em red, 2.5em 4.5em red, 3em 4.5em red, 3.5em 4.5em red,
+    4em 4.5em red, 4.5em 4.5em red, 5em 4.5em red, 5.5em 4.5em red,
+    6em 4.5em red, 6.5em 4.5em red, 0.5em 5em red, 1em 5em red, 1.5em 5em red,
+    2em 5em red, 2.5em 5em red, 3em 5em red, 3.5em 5em red, 4em 5em red,
+    4.5em 5em red, 5em 5em red, 5.5em 5em red, 6em 5em red, 6.5em 5em red,
+    0.5em 5.5em red, 1em 5.5em red, 1.5em 5.5em red, 2em 5.5em red,
+    3em 5.5em red, 3.5em 5.5em red, 4em 5.5em red, 1em 6em red, 1.5em 6em red,
+    3.7em 6em red, 3.3em 6em red, 5em 5.5em red, 5.5em 5.5em red, 6em 5.5em red,
+    6.5em 5.5em red, 6em 6em red, 5.5em 6em red, 0em 4em white, -0.5em 4em white,
+    -1em 4em white, -0.5em 3.7em white, -0.5em 4.3em white, 7em 4em white,
+    7.5em 4em white, 8em 4em white, 7.5em 3.7em white, 7.5em 4.3em white,
+    9em 4em white, 9.5em 4em white, 10em 4em white, 9.5em 4.3em white,
+    9.5em 3.7em white, -2em 4em white, -2.5em 4em white, -3em 4em white,
+    -2.5em 4.3em white, -2.5em 3.7em white;
+}
